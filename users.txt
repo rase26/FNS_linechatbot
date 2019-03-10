@@ -1,0 +1,2 @@
+{"display_name": "\u5f35\u6f41\u67d4", "picture_url": "https://profile.line-scdn.net/0hft50MRv5OVsISRYf4VhGDDQMNzZ_Zz8TcHoiP3hNNz9xcH0OZi52NSRKZ25wKn5aNyp0aSlMY21y", "status_message": null, "user_id": "U3701a743e6f749643182cd63fb2e7545"}
+{"display_name": "\u5f35\u6f41\u67d4", "picture_url": "https://profile.line-scdn.net/0hft50MRv5OVsISRYf4VhGDDQMNzZ_Zz8TcHoiP3hNNz9xcH0OZi52NSRKZ25wKn5aNyp0aSlMY21y", "status_message": null, "user_id": "U3701a743e6f749643182cd63fb2e7545"}
